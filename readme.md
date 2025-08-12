@@ -1,4 +1,5 @@
 # GUI – ToDo App
+![GUI – ToDo App Screenshot](![GUI – ToDo App Screenshot](https://github.com/bclokesh/GUI-ToDo-App/blob/main/Screenshot%202025-08-12%20120634.png)
 
 A desktop To-Do list application built with Java Swing.
 
